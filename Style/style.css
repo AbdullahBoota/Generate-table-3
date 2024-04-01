@@ -1,0 +1,10 @@
+
+main{
+
+    .buttons{
+        .btn{
+            margin-bottom: 8px;
+            min-width: 45%;
+        }
+    }
+}
